@@ -1,0 +1,14 @@
+org.ofbiz.core.config
+org.ofbiz.core.entity
+org.ofbiz.core.entity.comparator
+org.ofbiz.core.entity.config
+org.ofbiz.core.entity.eca
+org.ofbiz.core.entity.jdbc
+org.ofbiz.core.entity.jdbc.alternative
+org.ofbiz.core.entity.jdbc.dbtype
+org.ofbiz.core.entity.jdbc.interceptors
+org.ofbiz.core.entity.jdbc.interceptors.connection
+org.ofbiz.core.entity.model
+org.ofbiz.core.entity.transaction
+org.ofbiz.core.entity.util
+org.ofbiz.core.util
